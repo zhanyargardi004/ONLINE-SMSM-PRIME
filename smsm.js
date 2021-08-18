@@ -99,9 +99,26 @@ const smsm97 = new Discord.Client();
 const smsm98 = new Discord.Client();
 const smsm99 = new Discord.Client();
 const smsm100 = new Discord.Client();
-
-
-
+const smsm101 = new Discord.Client();
+const smsm102 = new Discord.Client();
+const smsm103 = new Discord.Client();
+const smsm104 = new Discord.Client();
+const smsm105 = new Discord.Client();
+const smsm106 = new Discord.Client();
+const smsm107 = new Discord.Client();
+const smsm108 = new Discord.Client();
+const smsm109 = new Discord.Client();
+const smsm110 = new Discord.Client();
+const smsm111 = new Discord.Client();
+const smsm112 = new Discord.Client();
+const smsm113 = new Discord.Client();
+const smsm114 = new Discord.Client();
+const smsm115 = new Discord.Client();
+const smsm116 = new Discord.Client();
+const smsm117 = new Discord.Client();
+const smsm118 = new Discord.Client();
+const smsm119 = new Discord.Client();
+const smsm120 = new Discord.Client();
 
 ////////////////////////////////////////////// bas id voice dane 
 
@@ -530,6 +547,107 @@ smsm100.on("ready", () => {
     var join = smsm100.channels.get("id voice"); /// id voice
     if (join) join.join();
   });
+/////////////////////
+smsm101.on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm102.on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm103.on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm104.on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm105.on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm106.on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm107.on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm108.on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm109.on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm110.on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm111.on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm112.on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm113on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm114on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm115on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm116on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm117on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm118on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm119on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+/////////////////////
+smsm120on("ready", () => {
+    var join = smsm100.channels.get("id voice"); /// id voice
+    if (join) join.join();
+  });
+
 ////////Ba heach shewayak daskary xware maka////////
 
 smsm.on("ready", () => {
