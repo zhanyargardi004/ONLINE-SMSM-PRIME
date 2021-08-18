@@ -2569,6 +2569,386 @@ smsm100.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
+smsm101.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm101.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm102.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm102.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm103.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm103.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm104.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm104.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm105.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm105.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm106.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm106.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm107.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm107.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm108.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm108.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm109.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm109.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm110.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm110.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm111.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm111.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm112.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm112.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm113.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm113.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm114.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm114.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm115.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm115.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm116.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm116.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm117.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm117.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm118.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm118.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm119.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm119.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm120.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `By SMSM`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm120.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
 
 //////////////// token lera dabne/////////
 
@@ -2680,3 +3060,23 @@ smsm97.login("");
 smsm98.login("");
 smsm99.login("");
 smsm100.login("");
+smsm101.login("");
+smsm102.login("");
+smsm103.login("");
+smsm104.login("");
+smsm105.login("");
+smsm106.login("");
+smsm107.login("");
+smsm108.login("");
+smsm108.login("");
+smsm110.login("");
+smsm111.login("");
+smsm112.login("");
+smsm113.login("");
+smsm114.login("");
+smsm115.login("");
+smsm116.login("");
+smsm117.login("");
+smsm118.login("");
+smsm119.login("");
+smsm120.login("");
