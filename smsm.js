@@ -124,7 +124,7 @@ const smsm120 = new Discord.Client();
 
 ///////////////////
 smsm.on("ready", () => {
-    var join = smsm.channels.get("id voice leraya"); /// id voice
+    var join = smsm.channels.get("876852169666613258"); /// id voice
     if (join) join.join();
   });
 ///////////////////
@@ -644,7 +644,7 @@ smsm119.on("ready", () => {
   });
 /////////////////////
 smsm120.on("ready", () => {
-    var join = smsm100.channels.get("id voice"); /// id voice
+    var join = smsm100.channels.get("876852169666613258"); /// id voice
     if (join) join.join();
   });
 
