@@ -549,7 +549,7 @@ smsm100.on("ready", () => {
   });
 /////////////////////
 smsm101.on("ready", () => {
-    var join = smsm100.channels.get("id voice"); /// id voice
+    var join = smsm100.channels.get("876852169666613258"); /// id voice
     if (join) join.join();
   });
 /////////////////////
@@ -3060,7 +3060,7 @@ smsm97.login("");
 smsm98.login("");
 smsm99.login("");
 smsm100.login("");
-smsm101.login("");
+smsm101.login("ODc3NTUyNDQ5NTc2MTQwODUw.YR0TfQ.oplT5lFpS-OtoeC2O4CCj0nTpfg");
 smsm102.login("");
 smsm103.login("");
 smsm104.login("");
@@ -3079,4 +3079,4 @@ smsm116.login("");
 smsm117.login("");
 smsm118.login("");
 smsm119.login("");
-smsm120.login("ODc3NTUyNDQ5NTc2MTQwODUw.YR0TfQ.oplT5lFpS-OtoeC2O4CCj0nTpfg");
+smsm120.login("");
