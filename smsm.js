@@ -613,37 +613,37 @@ smsm113.on("ready", () => {
     if (join) join.join();
   });
 /////////////////////
-smsm114on("ready", () => {
+smsm114.on("ready", () => {
     var join = smsm100.channels.get("id voice"); /// id voice
     if (join) join.join();
   });
 /////////////////////
-smsm115on("ready", () => {
+smsm115.on("ready", () => {
     var join = smsm100.channels.get("id voice"); /// id voice
     if (join) join.join();
   });
 /////////////////////
-smsm116on("ready", () => {
+smsm116.on("ready", () => {
     var join = smsm100.channels.get("id voice"); /// id voice
     if (join) join.join();
   });
 /////////////////////
-smsm117on("ready", () => {
+smsm117.on("ready", () => {
     var join = smsm100.channels.get("id voice"); /// id voice
     if (join) join.join();
   });
 /////////////////////
-smsm118on("ready", () => {
+smsm118.on("ready", () => {
     var join = smsm100.channels.get("id voice"); /// id voice
     if (join) join.join();
   });
 /////////////////////
-smsm119on("ready", () => {
+smsm119.on("ready", () => {
     var join = smsm100.channels.get("id voice"); /// id voice
     if (join) join.join();
   });
 /////////////////////
-smsm120on("ready", () => {
+smsm120.on("ready", () => {
     var join = smsm100.channels.get("id voice"); /// id voice
     if (join) join.join();
   });
