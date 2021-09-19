@@ -1847,25 +1847,6 @@ smsm63.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm63.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  ``,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm63.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
 smsm64.on("ready", () => {
   console.log(
     `Online In Servers`
