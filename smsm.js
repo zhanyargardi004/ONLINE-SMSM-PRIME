@@ -594,7 +594,7 @@ smsm109.on("ready", () => {
   });
 /////////////////////
 smsm110.on("ready", () => {
-    var join = smsm1010.channels.get("id voice"); /// id voice
+    var join = smsm110.channels.get("id voice"); /// id voice
     if (join) join.join();
   });
 /////////////////////
