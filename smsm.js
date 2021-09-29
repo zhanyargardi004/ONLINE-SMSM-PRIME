@@ -549,7 +549,7 @@ smsm100.on("ready", () => {
   });
 /////////////////////
 smsm101.on("ready", () => {
-    var join = smsm101.channels.get("876852169666613258"); /// id voice
+    var join = smsm101.channels.get(""); /// id voice
     if (join) join.join();
   });
 /////////////////////
@@ -3029,6 +3029,7 @@ smsm91.login("");
 smsm92.login("");
 smsm93.login("");
 smsm94.login("");
+smsm95.login("");
 smsm96.login("");
 smsm97.login("");
 smsm98.login("");
